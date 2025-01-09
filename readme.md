@@ -57,4 +57,3 @@
 	║ pan, and full  ║						║ and help display. ║
 	║ fractal draw.  ║						╚═══════════════════╝
 	╚════════════════╝
-
